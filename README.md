@@ -6,4 +6,6 @@ My name is Antonin, and I am a web development student. I live in France, and yo
 
 My Skills
 ---------
-![My Skills](https://skillicons.dev/icons?i=py,git,github,css,html,php,mysql,js,tailwind)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,tailwind,py,php,mysql)
+
+![Tools](https://skillicons.dev/icons?i=vscode,figma,md,github,git)
