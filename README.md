@@ -2,17 +2,19 @@
 
 Hello,
 ---------
-My name is Antonin, and I am a web development student. I live in France, and you can find me on [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonin-tacchi-4b7b32338/).
+I am currently a **1ᵉ year Bachelor student in Web Development** at the <a href="https://laplateforme.io/">**La Plateforme**<a> school. Being very **creative** and **optimistic**, I want to store as much as possible to be able to develop my **knowledge** and **learn more**.
 
 <br>
 
 My Skills
 ---------
-![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,tailwind,py,php,mysql)
-
+### Front-end :
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,jquery,tailwind,bootstrap)
+### Back-end :
+![My Skills](https://skillicons.dev/icons?i=php,mysql,py,nodejs,java)
 Tools
 ---------
-![Tools](https://skillicons.dev/icons?i=vscode,figma,md,github,git)
+![Tools](https://skillicons.dev/icons?i=vscode,idea,figma,md,github,git,docker,npm,gradle,discord)
 
 <br>
 
