@@ -12,6 +12,9 @@ My Skills
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,jquery,tailwind,bootstrap)
 ### Back-end :
 ![My Skills](https://skillicons.dev/icons?i=php,mysql,py,nodejs,java)
+
+<br>
+
 Tools
 ---------
 ![Tools](https://skillicons.dev/icons?i=vscode,idea,figma,md,github,git,docker,npm,gradle,discord)
